@@ -1,0 +1,2 @@
+from models.candidate import CandidateProfileRecord
+from models.application import JobApplicationRecord
